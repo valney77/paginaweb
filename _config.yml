@@ -1,1 +1,16 @@
-theme: jekyll-theme-time-machine
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" href="styles/style.css"/>
+  <title>HELLO USUARIO</title>
+</head>
+<body>
+  <h2 style="text-align: center;">
+    Welcome
+  </h2>
+  This is an example web page.<br>
+ pagina test.</br>
+</body>
+</html>
