@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/valney77/sc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Bem vindo
+https://github.com/valney77/sc/edit/gh-pages/index.md
+https://jekyllrb.com/
 
 ### Markdown
 
